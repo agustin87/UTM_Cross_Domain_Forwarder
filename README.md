@@ -1,5 +1,7 @@
 # UTM Cross-Domain Forwarder
 
+*[Read in English](README.en.md)*
+
 Script pequeño (vanilla JS, sin dependencias) para un problema concreto: **tus campañas aterrizan en una landing que no vive en tu dominio final**, y los links de esa landing hacia tu web se comen los UTM por el camino.
 
 Pensado para inyectarse vía GTM (o `<script>` directo) en la landing de terceros.
